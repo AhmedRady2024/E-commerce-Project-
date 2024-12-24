@@ -1,0 +1,30 @@
+
+
+
+input, #submit {
+    width: 300px;
+    height: 40px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+#submit {
+    background-color: rgb(55, 55, 129);
+    color: white;
+    font-size: 16px;
+
+}
+
+
+#header{
+    margin-left: 30px;
+}
+
+#submit:hover{
+    background-color: #357AE8 ;
+}
+
+#forgetPassword{
+    font-size: 20px;
+    margin-left: 90px ;
+}
